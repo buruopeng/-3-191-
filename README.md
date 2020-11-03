@@ -70,7 +70,8 @@ switch(s){
 ```
 **五.实验结果
 
-![](https://github.com/buruopeng/-3-191-/blob/main/6810cd54367ae480c03ceff554fc536.png"")
-![]("")
+![](https://github.com/buruopeng/-3-191-/blob/main/6810cd54367ae480c03ceff554fc536.png "")
+![](https://github.com/buruopeng/-3-191-/blob/main/d18c1147f33895e2ad16ffbf94e20d6.png "")
 
-
+**六.编程体会
+这次实验，牢固掌握了接口类得写法和接口方法得实现，通过阅读代码，了解跳转标记，通过跳转实现退出系统功能，学习了scanner类，完成与用户交互得功能，利用数组和循环，简化了代码，学会使用while(true)无限循环，学会使用break，if，for语句，对编程增加了兴趣，更愿意花时间研究更多功能实现，来使代码功能强大。
