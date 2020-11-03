@@ -70,6 +70,7 @@ switch(s){
 ```
 **五.实验结果
 
+![](https://github.com/buruopeng/-3-191-/blob/main/6810cd54367ae480c03ceff554fc536.png"")
 ![]("")
 
 
