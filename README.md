@@ -70,8 +70,8 @@ switch(s){
 ```
 **五.实验结果
 
-![](https://github.com/buruopeng/-3-191-/blob/main/6810cd54367ae480c03ceff554fc536.png "")
-![](https://github.com/buruopeng/-3-191-/blob/main/d18c1147f33895e2ad16ffbf94e20d6.png "")
+ ![1](https://github.com/buruopeng/-3-191-/blob/main/6810cd54367ae480c03ceff554fc536.png "")
+ ![2](https://github.com/buruopeng/-3-191-/blob/main/d18c1147f33895e2ad16ffbf94e20d6.png "")
 
 
 **六.编程体会
